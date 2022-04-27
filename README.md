@@ -13,7 +13,7 @@
  | 名称     | 值                                                           | 说明                                                         |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 协议 | vmess/vless（可选）                                               | 协议：nginx+vmess+ws+tls或是nginx+vless+ws+tls                |
-| UUID   e0110f37-acc1-48b3-9e2d-797f8983abee  | | [uuid在线生成器](https://www.uuidgenerator.net "uuid在线生成器") `务必替换`                       |
+| UUID     | e0110f37-acc1-48b3-9e2d-797f8983abee | [uuid在线生成器](https://www.uuidgenerator.net "uuid在线生成器") `务必替换`                       |
 | 路径  | 默认为`/ray`                                                    | 路径，请勿使用`/speedtest`，`/`，`/test` 等已经被占用的请求路径   |
 
 出于安全考量，除非使用 CDN，否则请不要使用自定义域名，而使用 Heroku 分配的二级域名，以实现 XRay vless Websocket + TLS。
