@@ -1,6 +1,6 @@
 ## 服务端
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/Lbingyi/HerokuV2ray) 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/HJYAlive/awei) 
 
 点击上面紫色`Deploy to Heroku`，会跳转到heroku app创建页面，填上应用的名称、建议用欧洲节点按需修改部分参数和UUID后点击下面`deploy`开始创建部署应用  
 如出现错误，可以多尝试几次，待部署完成后页面底部会显示`Your app was successfully deployed` 
